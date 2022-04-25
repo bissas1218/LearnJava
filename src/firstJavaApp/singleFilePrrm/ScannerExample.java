@@ -13,16 +13,17 @@ public class ScannerExample {
 	 * 따라서 Scanner및 클래스를 참조하는 이 예제는 실행기 MatchResult로 간단히 실행할 수 있습니다 .java
 	 */
 	public static void main(String... args) {
+		/*
 		String wordsAndNumbers = """
                 Longing rusted furnace
                 daybreak 17 benign 
                 9 homecoming 1 
                 freight car
                 """;
-                
-        try (Scanner scanner = new Scanner(wordsAndNumbers)) {
-            scanner.findAll("benign").map(MatchResult::group).forEach(System.out::println);
-        }
+                */
+       // try (Scanner scanner = new Scanner(wordsAndNumbers)) {
+       //     scanner.findAll("benign").map(MatchResult::group).forEach(System.out::println);
+       // }
 
 	}
 
