@@ -1,4 +1,4 @@
-package firstJavaApp.singleFilePrrm;
+package firstJavaApp.singleFilePrgm;
 
 //import org.apache.commons.lang3.RandomUtils;
 

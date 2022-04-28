@@ -1,4 +1,4 @@
-package firstJavaApp.singleFilePrrm;
+package firstJavaApp.singleFilePrgm;
 
 /*
  * 동일한 파일의 여러 클래스

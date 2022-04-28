@@ -1,4 +1,4 @@
-package firstJavaApp.singleFilePrrm;
+package firstJavaApp.singleFilePrgm;
 
 public class HelloJava {
 

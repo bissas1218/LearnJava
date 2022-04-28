@@ -1,1 +1,30 @@
 github access token : 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 (22년7월26일까지)
+
+=============== Learn Java(자바 배우기) ===============
+
+1. Running Your First Java Application(첫 번째 Java애플리케이션 실행) - firstJavaApp.startJava
+ 1-1.Getting Started with Java(자바 시작하기) - GettingStartedWithJava
+  Creating your first Java application.
+  첫 번째 Java애플리케이션 만들기.
+  
+ 1-2.Launching Single-File Source-Code Programs(단일 파일 소스 코드 프로그램 시작) - firstJavaApp.singleFilePrgm
+  Launching Single-File Source-Code Java programs with the Java launcher.
+  Java실행기로 단일 파일 소스 코드 Java 프로그램 실행.
+  
+  1-2-1.Single-File Source-Code Program Execution(단일 파일 소스 코드 프로그램 실행)
+  1-2-2.Executing Your First Single-File Source-Code Program
+  1-2-3.Multiple Classes in Same File
+  1-2-4.Reference JDK Classes and Non-JDK Classes
+  1-2-5.Executing as a Shebang File
+  
+ 1-3.Jshell - The Java Shell Tool
+  jshell interactively evaluate declarations, statements, and expressions of the Java programming language in a read-eval-print loop (REPL).
+  
+2. Staying Aware of New Features(새로운 기능에 대한 인식 유지)
+ 2-1.Java Platform Evolution
+ 2-2.Using the Preview Features Available in the JDK
+ 
+3. Getting to Know the Language(언어 알아보기)
+4. Mastering the API(API 마스터하기)
+5. Organizing your Application(애플리케이션 구성)
+6. Getting to know the JVM(JVM에 대해 알아보기)

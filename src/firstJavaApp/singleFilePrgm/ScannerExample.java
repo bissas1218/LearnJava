@@ -1,4 +1,4 @@
-package firstJavaApp.singleFilePrrm;
+package firstJavaApp.singleFilePrgm;
 
 import java.util.Scanner;
 import java.util.regex.MatchResult;

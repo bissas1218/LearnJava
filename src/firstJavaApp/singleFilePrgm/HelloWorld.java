@@ -1,6 +1,8 @@
-package firstJavaApp.singleFilePrrm;
+package firstJavaApp.singleFilePrgm;
 
 /*
+ * 단일 파일 소스 코드 프로그램 실행
+ * 
  * javaJDK 11에서 Java는 먼저 소스 코드를 명시적으로 컴파일할 필요 없이 실행기 로 단일 파일 소스 코드 프로그램을 시작하는 기능을 도입했습니다 . 
  * 이것은 java런처가 자동으로 컴파일러를 호출하고 컴파일된 코드를 메모리에 저장함으로써 작동합니다. 
  * 이것은 코드를 컴파일하고 실행하는 과정을 거치지 않고도 Java 사용 방법을 배우거나 Java API 내에서 새로운 기능을 탐색하는 좋은 방법이 될 수 있습니다. 
